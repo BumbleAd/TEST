@@ -1,5 +1,5 @@
-test content 
+test content
 third update
 update from second branch
-
-third content
+after merge
+updated content
