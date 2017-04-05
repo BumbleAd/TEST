@@ -1,0 +1,6 @@
+* [1;34med53fda[m - [1;32m(47 minutes ago)[m [37mcreate conflict[m [2;37m- maxim.m[m[1;33m (origin/first_branch, first_branch)[m
+* [1;34mecd8e22[m - [1;32m(47 minutes ago)[m [37mcreate conflict[m [2;37m- maxim.m[m[1;33m[m
+* [1;34meaba5fe[m - [1;32m(58 minutes ago)[m [37mfirts commit message[m [2;37m- maxim.m[m[1;33m[m
+* [1;34m25c268b[m - [1;32m(50 minutes ago)[m [37mcommit without add[m [2;37m- maxim.m[m[1;33m (HEAD -> master, origin/master)[m
+* [1;34m6c4883a[m - [1;32m(63 minutes ago)[m [37m2 commit[m [2;37m- maxim.m[m[1;33m[m
+* [1;34m0059865[m - [1;32m(69 minutes ago)[m [37minitial commit[m [2;37m- maxim.m[m[1;33m[m
